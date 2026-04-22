@@ -45,16 +45,14 @@ In AI systems, ethical responsibility is especially important to avoid unintende
 
 ## Reflection
 
-This project helped me understand how reinforcement learning works in practice. I learned how an agent can learn from its environment and improve performance through trial and error. It also strengthened my understanding of neural networks and decision-making systems.
-
----
-
-## Repository Contents
-
-- `PirateAgent.ipynb` → Main project notebook
-- `README.md` → Project explanation and reflection
+This project helped me understand how reinforcement learning works in practice. I learned how an agent can learn from its environment and improve performance through trial and error. It also strengthened my understanding of neural networks and decision-making systems.   
 
 ---
 
 ## Submission
 https://github.com/Shahbaj720/CS-370---Current-Emerging-Trends-
+
+
+
+
+
