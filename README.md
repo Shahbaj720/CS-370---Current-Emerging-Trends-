@@ -57,5 +57,4 @@ This project helped me understand how reinforcement learning works in practice. 
 ---
 
 ## Submission
-
-Repository Link: *(PASTE YOUR GITHUB LINK HERE)*
+https://github.com/Shahbaj720/CS-370---Current-Emerging-Trends-
